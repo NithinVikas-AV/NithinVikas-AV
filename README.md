@@ -48,6 +48,11 @@
 
 <hr/>
 
+<h3> 🐍 Contribution Snake</h3>
+<div align="center">
+  <img src="https://github.com/NithinVikas-AV/NithinVikas-AV/blob/main/Snake_game_animation.svg" />
+</div>
+
 <hr/>
 
 <div align="center">
